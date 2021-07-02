@@ -1,4 +1,4 @@
-# odit2
+# template with vue2
 
 ## Project setup
 ```
